@@ -1,0 +1,6 @@
+export const NUMBER_INPUT_A = 'number_input_A'
+export const NUMBER_INPUT_B = 'number_input_B'
+export const ADD = 'add'
+export const SUB = 'sub'
+export const MULT = 'mult'
+export const DIV = 'div'
